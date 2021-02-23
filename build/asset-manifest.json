@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/static/css/main.5a85a8d0.chunk.css",
+    "main.js": "/static/js/main.763cda8d.chunk.js",
+    "main.js.map": "/static/js/main.763cda8d.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.74d50bdc.js",
+    "runtime-main.js.map": "/static/js/runtime-main.74d50bdc.js.map",
+    "static/js/2.4770dedf.chunk.js": "/static/js/2.4770dedf.chunk.js",
+    "static/js/2.4770dedf.chunk.js.map": "/static/js/2.4770dedf.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.839cbbf7d3da41625518b23b5dba0e91.js": "/precache-manifest.839cbbf7d3da41625518b23b5dba0e91.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.5a85a8d0.chunk.css.map": "/static/css/main.5a85a8d0.chunk.css.map",
+    "static/js/2.4770dedf.chunk.js.LICENSE.txt": "/static/js/2.4770dedf.chunk.js.LICENSE.txt",
+    "static/media/avatar.png": "/static/media/avatar.217a36f8.png",
+    "static/media/below.png": "/static/media/below.f37af717.png",
+    "static/media/bg-banner2.png": "/static/media/bg-banner2.16a87398.png",
+    "static/media/flag.svg": "/static/media/flag.addc02f4.svg",
+    "static/media/left.svg": "/static/media/left.8f7d8890.svg",
+    "static/media/multi.svg": "/static/media/multi.15009fc6.svg",
+    "static/media/overview.svg": "/static/media/overview.d60da766.svg",
+    "static/media/q-a.svg": "/static/media/q-a.f85928ac.svg",
+    "static/media/question.png": "/static/media/question.9b11d760.png",
+    "static/media/red-flag.svg": "/static/media/red-flag.c7787fb3.svg",
+    "static/media/right.svg": "/static/media/right.234b7a0a.svg",
+    "static/media/single.svg": "/static/media/single.13459f85.svg",
+    "static/media/teacher.png": "/static/media/teacher.0ccbd79e.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.74d50bdc.js",
+    "static/js/2.4770dedf.chunk.js",
+    "static/css/main.5a85a8d0.chunk.css",
+    "static/js/main.763cda8d.chunk.js"
+  ]
+}
